@@ -1,0 +1,24 @@
+---Before using the source code please join the BH clan - https://www.brick-hill.com/clan/1025/ ---
+
+Source Code:
+body
+  {
+    background-image: url("https://media.discordapp.net/attachments/546404618742267931/561974369623212074/unknown.png?width=1008&height=637") !important;
+    background-size: cover !important;
+    background-attachment: fixed !important;
+  }
+
+body, td, th, h3, i, em, span, li, div.crate, input, h4, form, textarea, h2, p, div, blockquote, .shopSideBarButton, strong, h5, title, label, h6, forum-create-button blue, p, forum-reply, blue shop-search-button, .loginlinks {
+font-family: Comic sams MS;
+}
+
+.forumname, a, table#forum-fr td, .navbar-glow-hover, .main {
+font-family: Comic sans MS;
+}
+
+span.posttext .forummsg {
+font-size: 15pt;
+}
+body {
+  color: Black;
+}
